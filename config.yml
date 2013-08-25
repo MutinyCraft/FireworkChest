@@ -1,0 +1,19 @@
+# FireworkChest Plugin by Jigsaw #
+
+# Color of firework.  Defaults to red if invalid choice.
+# COLORS: white, red, yellow, green, aqua, purple, orange
+Firework-Color: red
+
+# Type of firework.  Defaults to ball if invalid choice.
+# TYPES:  ball, ball_large, star, burst, creeper
+Firework-Type: ball_large
+
+# Chance that a firework will be exploded on chest interaction.
+# CHOICES: seldom, balanced, always
+Chance-To-Explode: balanced
+
+# Location from player to explode the firework.
+# Negative numbers are okay here.
+Location-X-Value: 0
+Location-Y-Value: 10
+Location-Z-Value: 0

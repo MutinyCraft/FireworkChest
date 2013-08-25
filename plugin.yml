@@ -1,0 +1,5 @@
+name: FireworkChest
+main: com.mutinycraft.jigsaw.FireworkChest.FireworkChest
+version: 1.0
+author: Jigsaw
+description: Triggers a firework explosion when any chest is accessed.
